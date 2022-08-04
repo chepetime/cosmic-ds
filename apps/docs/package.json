@@ -10,21 +10,21 @@
   },
   "dependencies": {
     "@cosmic/core": "*",
-    "react": "^18.0.0",
-    "react-dom": "^18.0.0"
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
   },
   "devDependencies": {
     "@cosmic/tsconfig": "*",
-    "@storybook/addon-actions": "^6.4.18",
-    "@storybook/addon-docs": "^6.4.22",
-    "@storybook/addon-essentials": "^6.4.18",
-    "@storybook/addon-links": "^6.4.18",
-    "@storybook/builder-vite": "^0.1.33",
-    "@storybook/react": "^6.4.18",
-    "@vitejs/plugin-react": "^1.3.2",
+    "@storybook/addon-actions": "^6.5.10",
+    "@storybook/addon-docs": "^6.5.10",
+    "@storybook/addon-essentials": "^6.5.10",
+    "@storybook/addon-links": "^6.5.10",
+    "@storybook/builder-vite": "^0.2.2",
+    "@storybook/react": "^6.5.10",
+    "@vitejs/plugin-react": "^2.0.0",
     "eslint-config-cosmic": "*",
-    "serve": "^13.0.2",
-    "typescript": "^4.5.4",
-    "vite": "^2.9.9"
+    "serve": "^14.0.1",
+    "typescript": "^4.7.4",
+    "vite": "^3.0.4"
   }
 }
