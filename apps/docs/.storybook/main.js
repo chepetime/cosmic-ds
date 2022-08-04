@@ -14,10 +14,10 @@ module.exports = {
       resolve: {
         alias: [
           {
-            find: "@acme/core",
+            find: "@cosmic/core",
             replacement: path.resolve(
               __dirname,
-              "../../../packages/acme-core/"
+              "../../../packages/cosmic-core/"
             ),
           },
         ],
